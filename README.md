@@ -4,14 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
 </p>
 
-<!-- Visitor Counter -->
+<!-- Glow Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinaycoding&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abhinaycoding&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
 🚀 Turning ideas into scalable products • Building SaaS & Web3 • Community-driven developer
 </p>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
 
 <br/>
 
@@ -27,6 +30,9 @@
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -36,7 +42,12 @@
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+
 ## ⚙️ Tech Stack
+
+<p align="center">
 
 ### Frontend  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,7 +64,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+</p>
+
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -75,6 +91,9 @@ Real-time sales dashboard built during 24-hour hackathon.
 
 <br/>
 
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/abhinay-nachankar-36b3a7223/  
@@ -83,5 +102,5 @@ Real-time sales dashboard built during 24-hour hackathon.
 
 > Open for collaborations, hackathons & exciting projects 🚀
 
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<!-- TokyoNight Styled Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
