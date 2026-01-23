@@ -29,9 +29,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaycoding&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinaycoding&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 
 <br/>
