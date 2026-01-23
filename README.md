@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
 </p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinaycoding&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <p align="center">
 🚀 Turning ideas into scalable products • Building SaaS & Web3 • Community-driven developer
 </p>
@@ -77,3 +82,6 @@ Real-time sales dashboard built during 24-hour hackathon.
 - 📧 Email: abhinaycoding@gmail.com  
 
 > Open for collaborations, hackathons & exciting projects 🚀
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
