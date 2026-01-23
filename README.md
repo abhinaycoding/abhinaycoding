@@ -1,13 +1,18 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Abhinay</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member;Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
 </p>
+
 
 <p align="center">
 🚀 Turning ideas into scalable products • Building SaaS & Web3 • Community-driven developer
 </p>
-![AZvq-z-52Zh_SIlAexgUKg-AZvq-z-54UVn0WPCOAuNvw](https://github.com/user-attachments/assets/b3fcca6c-d621-458e-8e51-df12b779f6b6)
+
 
 ## 👨‍💻 About Me
 
