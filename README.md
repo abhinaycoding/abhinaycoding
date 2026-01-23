@@ -1,16 +1,14 @@
-
-
 <h1 align="center">Hi 👋 I'm Abhinay</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
 </p>
-
 
 <p align="center">
 🚀 Turning ideas into scalable products • Building SaaS & Web3 • Community-driven developer
 </p>
 
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -18,26 +16,29 @@
 - 🔗 Blockchain Student Chapter Member (RBU)
 - 🏆 Hackathon Participant & Builder
 - ⚡ React + Firebase + Web3 Developer
-- 🌱 Currently learning Scalable Vibe Coding 
+- 🌱 Currently learning scalable vibe coding  
 
 > I don't just learn technology — I build with it.
+
+<br/>
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinaycoding&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinaycoding&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaycoding&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaycoding&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhinaycoding&theme=tokyonight&margin-w=15" />
 </p>
 
-## ⚙️ Tech Stack
+<br/>
 
-<p align="center">
+## ⚙️ Tech Stack
 
 ### Frontend  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -54,7 +55,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -62,24 +63,4 @@
 - Offline-first billing system  
 - Firebase Auth + Firestore  
 - Multi-shop & role-based access  
-- PDF Invoice + QR Payment integration  
-
-🔗 Repo: Coming Soon  
-
----
-
-### ⚡ SalesLive (Hackathon Project)
-Real-time sales dashboard built in 24 hours hackathon.
-
-🔗 Live Demo: https://over-clocked-sales-live.vercel.app  
-🔗 GitHub Repo: https://github.com/Shadow3456rh/OverClocked-SalesLive
-
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/abhinay-nachankar-36b3a7223/)
-- 🌐 Portfolio: Coming Soon  
-- 📧 Email: abhinaycoding@gmail.com  
-
-> Open for collaborations, hackathons & exciting projects 🚀
-
+- PDF Invoic
