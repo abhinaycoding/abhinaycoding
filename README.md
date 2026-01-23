@@ -31,7 +31,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaycoding
 &theme=radical" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhinaycodin&theme=radical&margin-w=15" />
 ## ⚙️ Tech Stack
 
 <p align="center">
