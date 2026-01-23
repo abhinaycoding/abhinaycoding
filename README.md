@@ -71,10 +71,11 @@ Real-time sales dashboard built in 24 hours hackathon.
 
 ## 📊 Contribution Activity
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=YOURUSERNAME&theme=dark" />
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=abhinaycoding&theme=dark" />
+
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [YOUR_LINK  ](https://www.linkedin.com/in/abhinay-nachankar-36b3a7223/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/abhinay-nachankar-36b3a7223/)
 - 🌐 Portfolio: Coming Soon  
 - 📧 Email: abhinaycoding@gmail.com  
 
