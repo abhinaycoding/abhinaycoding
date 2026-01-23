@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Building **Real-world SaaS & PWA apps**
+- 🚀 Building **real-world SaaS & PWA applications**
 - 🔗 Blockchain Student Chapter Member (RBU)
 - 🏆 Hackathon Participant & Builder
 - ⚡ React + Firebase + Web3 Developer
-- 🌱 Currently learning scalable vibe coding  
+- 🌱 Currently learning scalable backend systems  
 
 > I don't just learn technology — I build with it.
 
@@ -28,8 +28,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinaycoding&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaycoding&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 <br/>
 
@@ -58,4 +56,24 @@
 - Offline-first billing system  
 - Firebase Auth + Firestore  
 - Multi-shop & role-based access  
-- PDF Invoic
+- PDF Invoice + QR Payment integration  
+
+🔗 Repo: Coming Soon  
+
+<br/>
+
+### ⚡ SalesLive (Hackathon Project)
+Real-time sales dashboard built during 24-hour hackathon.
+
+🔗 Live Demo: https://over-clocked-sales-live.vercel.app  
+🔗 GitHub Repo: https://github.com/Shadow3456rh/OverClocked-SalesLive  
+
+<br/>
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinay-nachankar-36b3a7223/  
+- 🌐 Portfolio: Coming Soon  
+- 📧 Email: abhinaycoding@gmail.com  
+
+> Open for collaborations, hackathons & exciting projects 🚀
