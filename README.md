@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" />
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Abhinay</h1>
 
@@ -69,9 +67,6 @@ Real-time sales dashboard built in 24 hours hackathon.
 🔗 Live Demo: https://over-clocked-sales-live.vercel.app  
 🔗 GitHub Repo: https://github.com/Shadow3456rh/OverClocked-SalesLive
 
-## 📊 Contribution Activity
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=abhinaycoding&theme=dark" />
 
 ## 🤝 Let's Connect
 
