@@ -16,7 +16,7 @@
 - 🔗 Blockchain Student Chapter Member (RBU)
 - 🏆 Hackathon Participant & Builder
 - ⚡ React + Firebase + Web3 Developer
-- 🌱 Currently learning how to build scalable Vibe coding webApps  
+- 🌱 Currently learning how to build scalable vibe-coding web apps  
 
 > I don't just learn technology — I build with it.
 
