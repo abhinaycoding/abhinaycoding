@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+Web3+Developer;Blockchain+Community+Member+(RBU);Hackathon+Builder;Building+Real-World+SaaS+Apps;Learning+By+Shipping+🚀" />
 </p>
 
-<!-- Glow Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinaycoding&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
@@ -13,10 +12,7 @@
 🚀 Turning ideas into scalable products • Building SaaS & Web3 • Community-driven developer
 </p>
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
 ## 👨‍💻 About Me
 
@@ -24,14 +20,11 @@
 - 🔗 Blockchain Student Chapter Member (RBU)
 - 🏆 Hackathon Participant & Builder
 - ⚡ React + Firebase + Web3 Developer
-- 🌱 Currently learning how to build scalable vibe-coding web apps  
+- 🌱 Currently learning scalable vibe-coding web apps  
 
 > I don't just learn technology — I build with it.
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
 ## 📈 GitHub Stats
 
@@ -40,14 +33,9 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaycoding&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
 ## ⚙️ Tech Stack
-
-<p align="center">
 
 ### Frontend  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -64,12 +52,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
 ## 🚀 Featured Projects
 
@@ -81,18 +64,13 @@
 
 🔗 Repo: Coming Soon  
 
-<br/>
-
 ### ⚡ SalesLive (Hackathon Project)
 Real-time sales dashboard built during 24-hour hackathon.
 
 🔗 Live Demo: https://over-clocked-sales-live.vercel.app  
 🔗 GitHub Repo: https://github.com/Shadow3456rh/OverClocked-SalesLive  
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
 ## 🤝 Let's Connect
 
@@ -102,5 +80,4 @@ Real-time sales dashboard built during 24-hour hackathon.
 
 > Open for collaborations, hackathons & exciting projects 🚀
 
-<!-- TokyoNight Styled Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
