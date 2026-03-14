@@ -57,11 +57,11 @@
 
 🔗 Repo: Coming Soon  
 
-### ⚡ SalesLive (Hackathon Project)
+### ⚡NoteNook
 Real-time sales dashboard built during 24-hour hackathon.
 
-🔗 Live Demo: https://over-clocked-sales-live.vercel.app  
-🔗 GitHub Repo: https://github.com/Shadow3456rh/OverClocked-SalesLive  
+🔗 Live Demo:[ Click here](https://notenook-app.vercel.app/)  
+🔗 GitHub Repo: (https://github.com/abhinaycoding/NoteNook)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
 
