@@ -45,17 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/>
-
-## 🚀 Featured Projects
-
-### 🧾 Real-Time Digital Billing SaaS (PWA)
-- Offline-first billing system  
-- Firebase Auth + Firestore  
-- Multi-shop & role-based access  
-- PDF Invoice + QR Payment integration  
-
-🔗 Repo: Coming Soon  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/> 
 
 ### ⚡NoteNook
 FocusFlow is a real-time collaborative study application built to help students manage their time, tasks, and stay motivated through virtual study rooms. Designed with a sleek, minimalist aesthetic, it combines productivity tools with social accountability.
