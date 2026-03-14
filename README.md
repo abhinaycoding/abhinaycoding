@@ -58,7 +58,7 @@
 🔗 Repo: Coming Soon  
 
 ### ⚡NoteNook
-Real-time sales dashboard built during 24-hour hackathon.
+FocusFlow is a real-time collaborative study application built to help students manage their time, tasks, and stay motivated through virtual study rooms. Designed with a sleek, minimalist aesthetic, it combines productivity tools with social accountability.
 
 🔗 Live Demo:[ Click here](https://notenook-app.vercel.app/)  
 🔗 GitHub Repo: (https://github.com/abhinaycoding/NoteNook)
