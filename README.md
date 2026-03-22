@@ -48,7 +48,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=2"/> 
 
 ### ⚡NoteNook
-FocusFlow is a real-time collaborative study application built to help students manage their time, tasks, and stay motivated through virtual study rooms. Designed with a sleek, minimalist aesthetic, it combines productivity tools with social accountability.
+NoteNook is a real-time collaborative study application built to help students manage their time, tasks, and stay motivated through virtual study rooms. Designed with a sleek, minimalist aesthetic, it combines productivity tools with social accountability.
 
 🔗 Live Demo:[ Click here](https://notenook-app.vercel.app/)  
 🔗 GitHub Repo: (https://github.com/abhinaycoding/NoteNook)
