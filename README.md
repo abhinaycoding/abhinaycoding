@@ -153,7 +153,7 @@ When I'm not pushing commits, I'm probably reverse-engineering how something wor
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhinaycoding&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=abhinaycoding&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaycoding&theme=github-dark&hide_border=true"/>
 
@@ -161,7 +161,7 @@ When I'm not pushing commits, I'm probably reverse-engineering how something wor
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaycoding&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhinaycoding&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
