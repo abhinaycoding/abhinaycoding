@@ -177,16 +177,6 @@ When I'm not pushing commits, I'm probably reverse-engineering how something wor
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=abhinaycoding&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 📌 Current Goals
 
 - 🚀 Build impactful AI products
